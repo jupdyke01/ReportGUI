@@ -1,0 +1,10 @@
+name: ReportGUI
+version: 1.0
+main: me.jupdyke01.ReportGUI.Main
+author: Jupdyke01
+
+
+commands:
+   reportgui:
+      aliases: [report]
+      description: Main command for reportgui!
